@@ -52,3 +52,4 @@ Explore more Astro commands for various tasks:
 npm run astro ...       # Run CLI commands like `astro add`, `astro check`
 npm run astro -- --help # Get help using the Astro CLI
 ```
+# astro-hugo-blog
